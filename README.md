@@ -12,8 +12,7 @@ How to use this macro
 
 1. Make sure you have a local copy of the blank default png.
 
-2. Edit add-blank-profile-image.js by specifying that local path. 
-
+2. Edit add-blank-profile-image.js by specifying that local path. (The script is commented. The variables section is at the top.)
 3. In iMacros, run add-blank-profile-image.js. 
 
 4. Coffee break.
